@@ -1,7 +1,7 @@
 ### Hi there 👋
 - ⚡ I major in Computer Science.I wanna be a professional indie game developer.
 - 🔭 I’m currently working on building some UnityEditor extensions.
-- 🌱 I’m currently learning Unity's UI Elements API, GraphView API, Timeline extensions, and Godot Engine.
+- 🌱 I’m currently learning Computer Graphics, and trying to implement a software renderer.
 
 ### Personal Page🛠
 - http://blog.zhangkexuan.cn
