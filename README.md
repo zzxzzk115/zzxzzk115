@@ -1,5 +1,6 @@
 ### Hi there 👋
-- ⚡ I major in Computer Science and Technology.I am planning my further education for Master degree.  
+- ⚡ I major in Computer Science and Technology.I am planning my further education for Master degree.
+  
 - 🔭 I’m currently interested in low-level vision and reinforcement learning.
 
 - 📫 How to reach me by mail: minjiecao@ieee.org 
