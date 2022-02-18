@@ -1,8 +1,7 @@
 ### Hi there 👋
 - ⚡ I major in Computer Science.I wanna be a professional indie game developer.
 - 🔭 I’m currently working on building some UnityEditor extensions.
-- 🌱 I’m currently learning Computer Graphics, and trying to implement a software renderer, and also create a mini GameEngine based on PyGame and PyQT.
-
+- 🌱 I’m currently learning Game Engine and Computer System, and trying to implement a C++ backend game engine that embed mono for C# developing environment.
 ### Personal Page🛠
 - http://blog.zhangkexuan.cn
 
