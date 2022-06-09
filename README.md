@@ -1,6 +1,6 @@
 ### Hi there 👋
 - ⚡ I major in Computer Science.I wanna be a professional indie game developer.
-- 🔭 I’m currently working on making a game: https://github.com/zzxzzk115/GoldMiner-GameShell.
+- 🔭 I’m currently working on making a tool: https://github.com/zzxzzk115/NW-Unity.
 - 🌱 I’m currently learning Game Engine and Computer System.
 ### Personal Page🛠
 - http://blog.zhangkexuan.cn
