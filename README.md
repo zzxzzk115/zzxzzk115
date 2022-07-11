@@ -1,6 +1,6 @@
 ### Hi there 👋
 - ⚡ I major in Computer Science.I wanna be a professional indie game developer.
-- 🔭 I’m currently working on making a tool: https://github.com/zzxzzk115/NW-Unity.
+- 🔭 I’m currently working on making a YesPlayMusicb lyrics plugin for i3status-rust: https://github.com/zzxzzk115/i3status-rust-ypm-lyrics
 - 🌱 I’m currently learning Game Engine and Computer System.
 ### Personal Page🛠
 - http://blog.zhangkexuan.cn
