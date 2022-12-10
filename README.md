@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Rust-lang and Linux.
 ### Personal Page🛠
 - http://blog.zhangkexuan.cn
+- https://zzxzzk115.github.io/blog/ (new)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzxzzk115&theme=light)](https://github.com/anuraghazra/github-readme-stats)
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=zzxzzk115&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
