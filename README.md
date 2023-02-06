@@ -1,6 +1,6 @@
 ### Hi there 👋
 - ⚡ I major in Computer Science.I wanna be a professional indie game developer.
-- 🌱 I’m currently learning ASP.NET Core, MAUI and Blazor.
+- 🌱 I’m currently learning React Native, and creating my first app that will be uploaded to AppStore.
 
 ### Personal Page🛠
 - http://blog.zhangkexuan.cn
