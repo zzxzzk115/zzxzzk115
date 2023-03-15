@@ -1,6 +1,6 @@
 ### Hi there 👋
 - ⚡ I major in Computer Science.I wanna be a professional indie game developer.
-- 🌱 I’m currently learning React Native, and creating my first app that will be uploaded to AppStore.
+- 🌱 I’m currently learning Game Engine theories, and try to build my own game engine.
 
 ### Personal Page🛠
 - http://blog.zhangkexuan.cn
