@@ -4,8 +4,8 @@
 - ⚡ I'm Kexuan Zhang from China. I major in Computer Science. I want to be a professional indie game developer.
 - 🌱 I’m currently learning Game Engine theories and trying to build my game engine.
 
-### Personal Page🛠
-- https://zzxzzk115.github.io/blog/
+### Portfolio 🛠
+- https://zzxzzk115.github.io/
 
 <img src="https://github-readme-stats.vercel.app/api?username=zzxzzk115&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 <!--
