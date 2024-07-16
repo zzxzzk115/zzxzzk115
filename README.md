@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&random=false&width=435&height=100&lines=Game+Developer%2C+C%23+.NET+Programmer;Graphics+%26+Engine+Student)](https://git.io/typing-svg)
 
 ### Hi there 👋
-- ⚡ I'm Kexuan Zhang from China. I major in Computer Science. I want to be a professional indie game developer.
-- 🌱 I’m currently learning Game Engine theories and trying to build my game engine.
+- ⚡ I'm Kexuan Zhang from China. I major in Computer Science.
+- 🌱 I'm doing a master's program at the University of Leeds, where I learn High-Performance Graphics & Game Engine techniques.
 
 ### Portfolio 🛠
 - https://zzxzzk115.github.io/
