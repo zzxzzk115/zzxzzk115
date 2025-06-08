@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&random=false&width=435&height=100&lines=Game+Developer%2C+C%23+.NET+Programmer;Graphics+%26+Engine+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&lines=Game+Developer%2C+C%23+.NET+Programmer;PhD+Student+in+VR+%26+HPG)](https://git.io/typing-svg)
 
 ### Hi there 👋
 - ⚡ I'm Kexuan Zhang from China. I major in Computer Science.
