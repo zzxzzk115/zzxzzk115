@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 - ⚡ I'm Kexuan Zhang from China. I major in Computer Science.
-- 🌱 I've completed my MSc in High-Performance Graphics & Games Engineering and am currently pursuing a PhD at the University of Leeds.
+- 🌱 I completed my MSc in High-Performance Graphics and Games Engineering, and I am now studying for a PhD at the University of Leeds.
 - 🔭 My research area: Perceptual Graphics (Virtual Reality & High-Performance Graphics).
 
 ### Portfolio 🛠
