@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=600&lines=Game+Developer%2C+PhD+Student+in+VR+%26+HPG)](https://git.io/typing-svg)
 
 ### Hi there 👋
-- ⚡ I'm Kexuan Zhang from China. I major in Computer Science.
-- 🌱 I completed my MSc in High-Performance Graphics and Games Engineering, and I am now studying for a PhD at the University of Leeds.
-- 🔭 My research area: Perceptual Graphics (Virtual Reality & High-Performance Graphics).
+- 💻 I'm Kexuan Zhang from China. I major in Computer Science.
+- 👨‍🎓 I completed my MSc in High-Performance Graphics and Games Engineering, and I am now studying for a PhD at the University of Leeds.
+- 🫖 My research area: Perceptual Graphics (Virtual Reality & High-Performance Graphics).
 
 ### Portfolio 🛠
 - https://zzxzzk115.github.io/
