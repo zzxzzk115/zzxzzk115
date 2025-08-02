@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&lines=Game+Developer%2C+C%23+.NET+Programmer;PhD+Student+in+VR+%26+HPG)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=600&lines=Game+Developer%2C+PhD+Student+in+VR+%26+HPG)](https://git.io/typing-svg)
 
 ### Hi there 👋
 - ⚡ I'm Kexuan Zhang from China. I major in Computer Science.
@@ -9,6 +9,9 @@
 - https://zzxzzk115.github.io/
 
 <img src="https://github-readme-stats.vercel.app/api?username=zzxzzk115&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzxzzk115&layout=pie&hide=javascript,html,css,scss,cmake,liquid,typescript)
+
 <!--
 **zzxzzk115/zzxzzk115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
