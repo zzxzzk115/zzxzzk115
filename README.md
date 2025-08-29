@@ -2,7 +2,8 @@
 
 ### Hi there 👋
 - 💻 I'm Kexuan Zhang from China. I major in Computer Science.
-- 👨‍🎓 I completed my MSc in High-Performance Graphics and Games Engineering, and I am now studying for a PhD at the University of Leeds.
+- 🎮 I worked as a Game Server Engineer at Blackjack Studio in Shanghai, China, for nearly two years after obtaining my Bachelor's degree (BEng).
+- 👨‍🎓 I completed my Master's degree (MSc) in High-Performance Graphics and Games Engineering, and I am now pursuing a PhD at the University of Leeds.
 - 🫖 My research area: Perceptual Graphics (Virtual Reality & High-Performance Graphics).
 
 ### Portfolio 🛠
