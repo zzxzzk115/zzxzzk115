@@ -9,9 +9,9 @@
 ### Portfolio 🛠
 - https://zzxzzk115.github.io/
 
-<img src="https://github-readme-stats.vercel.app/api?username=zzxzzk115&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img src="https://github-readme-stats-sable-kappa-99.vercel.app/api?username=zzxzzk115&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzxzzk115&layout=donut-vertical&langs_count=10&hide=javascript,html,css,scss,cmake,liquid,typescript,ruby,objective-c)    
+![Top Langs](https://github-readme-stats-sable-kappa-99.vercel.app/api/top-langs/?username=zzxzzk115&layout=donut-vertical&langs_count=10&hide=javascript,html,css,scss,cmake,liquid,typescript,ruby,objective-c)    
 
 <!--
 **zzxzzk115/zzxzzk115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
