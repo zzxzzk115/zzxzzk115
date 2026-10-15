@@ -117,19 +117,28 @@ I also enjoy getting retro games and software running on handhelds.
 ### GitHub stats
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sable-kappa-99.vercel.app/api?username=zzxzzk115&amp;show_icons=true&amp;hide_title=true&amp;hide_rank=true&amp;theme=github_dark&amp;disable_animations=true">
-  <img width="440" alt="GitHub statistics for zzxzzk115" src="https://github-readme-stats-sable-kappa-99.vercel.app/api?username=zzxzzk115&amp;show_icons=true&amp;hide_title=true&amp;hide_rank=true&amp;theme=default&amp;disable_animations=true">
-</picture>
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sable-kappa-99.vercel.app/api/top-langs/?username=zzxzzk115&amp;layout=donut-vertical&amp;langs_count=10&amp;theme=github_dark&amp;disable_animations=true&amp;hide=javascript%2Chtml%2Ccss%2Cscss%2Ccmake%2Cliquid%2Ctypescript%2Cruby%2Cobjective-c%2CJupyter%20Notebook">
-  <img width="360" alt="Most used languages by code size" src="https://github-readme-stats-sable-kappa-99.vercel.app/api/top-langs/?username=zzxzzk115&amp;layout=donut-vertical&amp;langs_count=10&amp;theme=default&amp;disable_animations=true&amp;hide=javascript%2Chtml%2Ccss%2Cscss%2Ccmake%2Cliquid%2Ctypescript%2Cruby%2Cobjective-c%2CJupyter%20Notebook">
+  <img align="right" width="360" alt="Most used languages by code size" src="https://github-readme-stats-sable-kappa-99.vercel.app/api/top-langs/?username=zzxzzk115&amp;layout=donut-vertical&amp;langs_count=10&amp;theme=default&amp;disable_animations=true&amp;hide=javascript%2Chtml%2Ccss%2Cscss%2Ccmake%2Cliquid%2Ctypescript%2Cruby%2Cobjective-c%2CJupyter%20Notebook">
 </picture>
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sable-kappa-99.vercel.app/api?username=zzxzzk115&amp;show_icons=true&amp;hide_title=true&amp;hide_rank=true&amp;theme=github_dark&amp;disable_animations=true">
+    <img width="440" alt="GitHub statistics for zzxzzk115" src="https://github-readme-stats-sable-kappa-99.vercel.app/api?username=zzxzzk115&amp;show_icons=true&amp;hide_title=true&amp;hide_rank=true&amp;theme=default&amp;disable_animations=true">
+  </picture>
+  <br>
+  <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=zzxzzk115&amp;theme=github-dark-blue&amp;hide_total_contributions=true&amp;card_width=440&amp;card_height=250&amp;disable_animations=true&amp;timezone=Europe%2FLondon">
+    <img width="440" alt="Current and longest contribution streaks for zzxzzk115" src="https://streak-stats.demolab.com/?user=zzxzzk115&amp;theme=default&amp;hide_total_contributions=true&amp;card_width=440&amp;card_height=250&amp;disable_animations=true&amp;timezone=Europe%2FLondon">
+  </picture>
+</p>
+<br clear="both">
 
 ### Contribution graph
 
-<a href="https://github.com/abozanona/pacman-contribution-graph">
+<a href="https://github.com/yoshi389111/github-profile-3d-contrib">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zzxzzk115/zzxzzk115/main/assets/pacman-contribution-graph-dark.svg">
-    <img alt="Pac-Man animation of zzxzzk115's GitHub contribution calendar" src="https://raw.githubusercontent.com/zzxzzk115/zzxzzk115/main/assets/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zzxzzk115/zzxzzk115/main/profile-3d-contrib/profile-night.svg">
+    <img alt="3D view of zzxzzk115's GitHub contribution calendar" src="https://raw.githubusercontent.com/zzxzzk115/zzxzzk115/main/profile-3d-contrib/profile-day.svg">
   </picture>
 </a>

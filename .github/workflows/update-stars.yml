@@ -9,7 +9,7 @@ on:
       - README.template.md
       - scripts/update-stars.mjs
       - scripts/update-stars.test.mjs
-      - scripts/update-pacman.mjs
+      - .github/profile-3d.json
       - .github/workflows/update-stars.yml
 
 permissions:
@@ -38,13 +38,16 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ github.token }}
         run: node scripts/update-stars.mjs
-      - name: Generate Pac-Man contribution graph
+      - name: Generate 3D contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@9e3f937195cf840d364388973f73e3c4b3753586
         env:
           GITHUB_TOKEN: ${{ github.token }}
-        run: node scripts/update-pacman.mjs
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: .github/profile-3d.json
+          MAX_REPOS: '1000'
       - name: Commit profile updates
         run: |
-          git add -- README.md assets/pacman-contribution-graph.svg assets/pacman-contribution-graph-dark.svg
+          git add -- README.md profile-3d-contrib/profile-day.svg profile-3d-contrib/profile-night.svg
           if git diff --cached --quiet; then
             echo "Profile is unchanged."
             exit 0
