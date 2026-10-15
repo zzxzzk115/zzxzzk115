@@ -121,6 +121,15 @@ I also enjoy getting retro games and software running on handhelds.
   <img width="440" alt="GitHub statistics for zzxzzk115" src="https://github-readme-stats-sable-kappa-99.vercel.app/api?username=zzxzzk115&amp;show_icons=true&amp;hide_title=true&amp;hide_rank=true&amp;theme=default&amp;disable_animations=true">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sable-kappa-99.vercel.app/api/top-langs/?username=zzxzzk115&amp;layout=compact&amp;langs_count=6&amp;theme=github_dark&amp;disable_animations=true&amp;hide=javascript,html,css,scss,cmake,liquid,typescript,ruby,objective-c,Jupyter%20Notebook">
-  <img width="360" alt="Most used languages by code size" src="https://github-readme-stats-sable-kappa-99.vercel.app/api/top-langs/?username=zzxzzk115&amp;layout=compact&amp;langs_count=6&amp;theme=default&amp;disable_animations=true&amp;hide=javascript,html,css,scss,cmake,liquid,typescript,ruby,objective-c,Jupyter%20Notebook">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sable-kappa-99.vercel.app/api/top-langs/?username=zzxzzk115&amp;layout=donut-vertical&amp;langs_count=10&amp;theme=github_dark&amp;disable_animations=true&amp;hide=javascript%2Chtml%2Ccss%2Cscss%2Ccmake%2Cliquid%2Ctypescript%2Cruby%2Cobjective-c%2CJupyter%20Notebook">
+  <img width="360" alt="Most used languages by code size" src="https://github-readme-stats-sable-kappa-99.vercel.app/api/top-langs/?username=zzxzzk115&amp;layout=donut-vertical&amp;langs_count=10&amp;theme=default&amp;disable_animations=true&amp;hide=javascript%2Chtml%2Ccss%2Cscss%2Ccmake%2Cliquid%2Ctypescript%2Cruby%2Cobjective-c%2CJupyter%20Notebook">
 </picture>
+
+### Contribution graph
+
+<a href="https://github.com/abozanona/pacman-contribution-graph">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zzxzzk115/zzxzzk115/main/assets/pacman-contribution-graph-dark.svg">
+    <img alt="Pac-Man animation of zzxzzk115's GitHub contribution calendar" src="https://raw.githubusercontent.com/zzxzzk115/zzxzzk115/main/assets/pacman-contribution-graph.svg">
+  </picture>
+</a>
