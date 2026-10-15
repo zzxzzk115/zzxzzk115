@@ -115,8 +115,8 @@ I also enjoy getting retro games and software running on handhelds.
 ### GitHub stats
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sable-kappa-99.vercel.app/api/top-langs/?username=zzxzzk115&amp;layout=donut-vertical&amp;langs_count=10&amp;theme=github_dark&amp;disable_animations=true&amp;hide=javascript%2Chtml%2Ccss%2Cscss%2Ccmake%2Cliquid%2Ctypescript%2Cruby%2Cobjective-c%2CJupyter%20Notebook">
-  <img align="right" width="360" alt="Most used languages by code size" src="https://github-readme-stats-sable-kappa-99.vercel.app/api/top-langs/?username=zzxzzk115&amp;layout=donut-vertical&amp;langs_count=10&amp;theme=default&amp;disable_animations=true&amp;hide=javascript%2Chtml%2Ccss%2Cscss%2Ccmake%2Cliquid%2Ctypescript%2Cruby%2Cobjective-c%2CJupyter%20Notebook">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sable-kappa-99.vercel.app/api/top-langs/?username=zzxzzk115&amp;layout=normal&amp;card_width=340&amp;custom_title=Languages%20by%20code%20size&amp;langs_count=10&amp;theme=github_dark&amp;disable_animations=true&amp;hide=javascript%2Chtml%2Ccss%2Cscss%2Ccmake%2Cliquid%2Ctypescript%2Cruby%2Cobjective-c%2CJupyter%20Notebook">
+  <img align="right" width="360" alt="Most used languages by code size" src="https://github-readme-stats-sable-kappa-99.vercel.app/api/top-langs/?username=zzxzzk115&amp;layout=normal&amp;card_width=340&amp;custom_title=Languages%20by%20code%20size&amp;langs_count=10&amp;theme=default&amp;disable_animations=true&amp;hide=javascript%2Chtml%2Ccss%2Cscss%2Ccmake%2Cliquid%2Ctypescript%2Cruby%2Cobjective-c%2CJupyter%20Notebook">
 </picture>
 <p>
   <picture>
