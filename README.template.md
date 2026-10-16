@@ -101,14 +101,7 @@ I also enjoy getting retro games and software running on handhelds.
 
 - [PegasusG-by-ROC](https://github.com/LPF970915/PegasusG-by-ROC)<br>Menus, pinyin search, native-resolution layouts, volume/standby controls, and Docker builds for H700 handhelds. [Merged PR #1](https://github.com/LPF970915/PegasusG-by-ROC/pull/1).
 
-- [Hazel](https://github.com/TheCherno/Hazel)<br>A proposed fix for flickering when resizing the window. [PR #616 — open](https://github.com/TheCherno/Hazel/pull/616).
-
-<details>
-<summary>Other contributions</summary>
-
-- [gbdev/database](https://github.com/gbdev/database/pull/143) — Added CatMarioGB to the homebrew catalog. Merged.
-
-</details>
+- [gbdev/database](https://github.com/gbdev/database)<br>Added CatMarioGB to the homebrew catalog. [Merged PR #143](https://github.com/gbdev/database/pull/143).
 
 ### GitHub stats
 
