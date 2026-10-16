@@ -107,8 +107,6 @@ I also enjoy getting retro games and software running on handhelds.
 <summary>Other contributions</summary>
 
 - [gbdev/database](https://github.com/gbdev/database/pull/143) — Added CatMarioGB to the homebrew catalog. Merged.
-- [stduuid](https://github.com/mariusbancila/stduuid/pull/78) — Proposed a Debian-family fix. Open PR.
-- [ImGui.NET](https://github.com/JulianVallee/ImGui.NET/pull/1) — Proposed a fix for key handling in an XNA project. Open PR.
 
 </details>
 
